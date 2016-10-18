@@ -5,7 +5,7 @@ mongoose.connect('mongodb://localhost/Mean-todo', function(err){
 	if(err){
 		console.log('Failed conneting to Mongodb!')
 	}else{
-		console.log('Succesful')
+		console.log('Succesfull')
 	}
 });
 
